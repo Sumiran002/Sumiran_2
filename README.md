@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sumiran and I'm a Student, from IIC</h2>
+<h2 align="left">Hi 👋! My name is Sumiran Sanjel, and I am an IT student at Itahari International College. I am currently pursuing my studies in the field of Information Technology, where I am learning about computer systems, programming, software development, and modern digital technologies. I have a strong interest in technology and enjoy exploring how software and systems work to solve real-world problems.</h2>
 
 ###
 
